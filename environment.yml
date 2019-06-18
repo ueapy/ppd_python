@@ -1,0 +1,10 @@
+name: ppd_python
+channels:
+   - conda-forge
+dependencies:
+   - python=3.7
+   - ipython
+   - jupyter
+   - numpy
+   - matplotlib
+   - pandas
