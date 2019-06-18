@@ -18,3 +18,7 @@ def fibonacci(n):
         fseq.append(a)      # Append this number to the list
 
     return fseq             # Return the list
+
+def under_pressure(d,rho = 1027.5, g = 9.81):
+    P = rho*g*d
+    return P
