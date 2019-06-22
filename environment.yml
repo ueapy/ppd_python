@@ -8,3 +8,6 @@ dependencies:
    - numpy
    - matplotlib
    - pandas
+   - cartopy
+   - xarray
+   - netcdf4
