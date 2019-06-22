@@ -1,0 +1,263 @@
+# number_of_header_lines: 68
+# comment:  
+# comment:  ************ USE OF ESRL GMD DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: insure that ESRL receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: ESRL should be informed at the outset of the nature of this work.  
+# comment: If the ESRL data are essential to the work, or if an important 
+# comment: result or conclusion depends on the ESRL data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the ESRL data should be sent to ESRL
+# comment: for review before they are submitted for publication so we can
+# comment: insure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4C13 SIL (Individual Flasks)
+# contact_name: Bruce H Vaughn
+# contact_telephone: (303) 492-7985
+# contact_email: Bruce.Vaughn@colorado.edu
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: CSIRO, Atmospheric Research [CSIRO]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the ESRL data, namely well documented model code, transport
+# comment: fields, and additional information necessary for other
+# comment: scientists to repeat the work and to run modified versions.
+# comment: Model availability includes collaborative support for new
+# comment: users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: cgo
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2017-01-12 09:53:40
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at ftp://aftp.cmdl.noaa.gov/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+CGO 1998  1  -46.849
+CGO 1998  2  -46.847
+CGO 1998  3  -46.844
+CGO 1998  4  -46.845
+CGO 1998  5  -46.879
+CGO 1998  6  -46.954
+CGO 1998  7  -47.063
+CGO 1998  8  -47.137
+CGO 1998  9  -47.132
+CGO 1998 10  -47.061
+CGO 1998 11  -46.975
+CGO 1998 12  -46.923
+CGO 1999  1  -46.917
+CGO 1999  2  -46.939
+CGO 1999  3  -46.963
+CGO 1999  4  -46.974
+CGO 1999  5  -46.973
+CGO 1999  6  -46.974
+CGO 1999  7  -46.983
+CGO 1999  8  -46.988
+CGO 1999  9  -46.978
+CGO 1999 10  -46.959
+CGO 1999 11  -46.944
+CGO 1999 12  -46.930
+CGO 2000  1  -46.921
+CGO 2000  2  -46.925
+CGO 2000  3  -46.948
+CGO 2000  4  -46.976
+CGO 2000  5  -46.993
+CGO 2000  6  -47.004
+CGO 2000  7  -47.020
+CGO 2000  8  -47.036
+CGO 2000  9  -47.031
+CGO 2000 10  -46.994
+CGO 2000 11  -46.926
+CGO 2000 12  -46.854
+CGO 2001  1  -46.804
+CGO 2002  1  -47.035
+CGO 2002  2  -46.982
+CGO 2002  3  -46.952
+CGO 2002  4  -46.945
+CGO 2002  5  -46.962
+CGO 2002  6  -46.996
+CGO 2002  7  -47.044
+CGO 2002  8  -47.099
+CGO 2002  9  -47.116
+CGO 2002 10  -47.045
+CGO 2002 11  -46.914
+CGO 2002 12  -46.816
+CGO 2003  1  -46.802
+CGO 2003  2  -46.869
+CGO 2003  3  -46.932
+CGO 2003  4  -46.952
+CGO 2003  5  -46.928
+CGO 2003  6  -46.900
+CGO 2003  7  -46.896
+CGO 2003  8  -46.919
+CGO 2003  9  -46.954
+CGO 2003 10  -46.987
+CGO 2003 11  -46.991
+CGO 2003 12  -46.962
+CGO 2004  1  -46.918
+CGO 2004  2  -46.897
+CGO 2004  3  -46.909
+CGO 2004  4  -46.942
+CGO 2004  5  -46.974
+CGO 2004  6  -46.991
+CGO 2004  7  -46.999
+CGO 2004  8  -47.001
+CGO 2004  9  -46.997
+CGO 2004 10  -46.975
+CGO 2004 11  -46.926
+CGO 2004 12  -46.844
+CGO 2005  1  -46.782
+CGO 2005  2  -46.791
+CGO 2005  3  -46.879
+CGO 2005  4  -46.989
+CGO 2005  5  -47.055
+CGO 2005  6  -47.089
+CGO 2005  7  -47.110
+CGO 2005 12  -46.859
+CGO 2006  1  -46.868
+CGO 2006  2  -46.909
+CGO 2006  3  -46.950
+CGO 2006  4  -46.964
+CGO 2006  5  -46.958
+CGO 2006  6  -46.956
+CGO 2006  7  -46.974
+CGO 2006  8  -47.002
+CGO 2006  9  -47.011
+CGO 2006 10  -46.992
+CGO 2006 11  -46.955
+CGO 2006 12  -46.937
+CGO 2007  1  -46.956
+CGO 2007  2  -46.993
+CGO 2007  3  -47.016
+CGO 2007  4  -46.995
+CGO 2007  5  -46.960
+CGO 2007  6  -46.960
+CGO 2007  7  -46.993
+CGO 2007  8  -47.012
+CGO 2007  9  -46.973
+CGO 2007 10  -46.914
+CGO 2007 11  -46.884
+CGO 2007 12  -46.892
+CGO 2008  1  -46.876
+CGO 2008  2  -46.814
+CGO 2008  3  -46.766
+CGO 2008  4  -46.782
+CGO 2008  5  -46.880
+CGO 2008  6  -47.004
+CGO 2008  7  -47.096
+CGO 2008  8  -47.140
+CGO 2008  9  -47.138
+CGO 2008 10  -47.093
+CGO 2008 11  -47.028
+CGO 2008 12  -46.975
+CGO 2009  1  -46.940
+CGO 2009  2  -46.926
+CGO 2009  3  -46.925
+CGO 2009  4  -46.930
+CGO 2009  5  -46.948
+CGO 2009  6  -46.984
+CGO 2009  7  -47.038
+CGO 2009  8  -47.080
+CGO 2009  9  -47.089
+CGO 2009 10  -47.071
+CGO 2009 11  -47.050
+CGO 2009 12  -47.038
+CGO 2010  1  -47.028
+CGO 2010  2  -47.023
+CGO 2010  3  -47.040
+CGO 2010  4  -47.094
+CGO 2010  5  -47.152
+CGO 2010  6  -47.172
+CGO 2010  7  -47.149
+CGO 2010  8  -47.119
+CGO 2010  9  -47.118
+CGO 2010 10  -47.135
+CGO 2010 11  -47.131
+CGO 2010 12  -47.080
+CGO 2011  1  -47.000
+CGO 2011  2  -46.942
+CGO 2011  3  -46.923
+CGO 2011  4  -46.944
+CGO 2011  5  -46.981
+CGO 2011  9  -47.176
+CGO 2012  1  -47.157
+CGO 2012  2  -47.116
+CGO 2012  3  -47.020
+CGO 2012  4  -46.925
+CGO 2012  5  -46.922
+CGO 2012  6  -47.027
+CGO 2012  7  -47.158
+CGO 2012  8  -47.253
+CGO 2012  9  -47.258
+CGO 2012 10  -47.199
+CGO 2012 11  -47.108
+CGO 2012 12  -47.039
+CGO 2013  1  -47.042
+CGO 2013  2  -47.122
+CGO 2013  3  -47.218
+CGO 2013  4  -47.262
+CGO 2013  5  -47.199
+CGO 2013  6  -47.059
+CGO 2013  7  -46.957
+CGO 2013  8  -46.951
+CGO 2013  9  -47.039
+CGO 2013 10  -47.124
+CGO 2013 11  -47.129
+CGO 2013 12  -47.073
+CGO 2014  1  -47.012
+CGO 2014  2  -46.997
+CGO 2014  3  -47.022
+CGO 2014  4  -47.071
+CGO 2014  5  -47.144
+CGO 2014  6  -47.222
+CGO 2014  7  -47.269
+CGO 2014  8  -47.270
+CGO 2014  9  -47.242
+CGO 2014 10  -47.214
+CGO 2014 11  -47.203
+CGO 2014 12  -47.198
+CGO 2015  1  -47.178
+CGO 2015  2  -47.140
+CGO 2015  3  -47.108
+CGO 2015  4  -47.099
+CGO 2015  5  -47.129
+CGO 2015  6  -47.177
+CGO 2015  7  -47.223
+CGO 2015  8  -47.238
+CGO 2015  9  -47.226
+CGO 2015 10  -47.199
+CGO 2015 11  -47.173
+CGO 2015 12  -47.152
