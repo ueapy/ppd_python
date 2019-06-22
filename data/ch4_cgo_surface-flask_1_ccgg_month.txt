@@ -1,0 +1,461 @@
+# number_of_header_lines: 68
+# comment:  
+# comment:  ************ USE OF ESRL GMD DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: insure that ESRL receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: ESRL should be informed at the outset of the nature of this work.  
+# comment: If the ESRL data are essential to the work, or if an important 
+# comment: result or conclusion depends on the ESRL data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the ESRL data should be sent to ESRL
+# comment: for review before they are submitted for publication so we can
+# comment: insure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CH4 CCGG (Individual Flasks)
+# contact_name: Ed Dlugokencky
+# contact_telephone: (303) 497-6228
+# contact_email: Ed.Dlugokencky@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: CSIRO, Atmospheric Research [CSIRO]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the ESRL data, namely well documented model code, transport
+# comment: fields, and additional information necessary for other
+# comment: scientists to repeat the work and to run modified versions.
+# comment: Model availability includes collaborative support for new
+# comment: users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: cgo
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2017-07-28 12:44:24
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at ftp://aftp.cmdl.noaa.gov/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+CGO 1984  4  1586.03
+CGO 1984  5  1590.69
+CGO 1984  6  1598.19
+CGO 1984  7  1606.73
+CGO 1984  8  1611.00
+CGO 1984  9  1610.54
+CGO 1984 10  1610.45
+CGO 1984 11  1606.23
+CGO 1984 12  1598.90
+CGO 1985  1  1591.83
+CGO 1985  2  1586.92
+CGO 1985  3  1588.05
+CGO 1985  4  1593.68
+CGO 1985  5  1602.20
+CGO 1985  6  1609.31
+CGO 1985  7  1614.77
+CGO 1985  8  1620.73
+CGO 1985  9  1623.26
+CGO 1985 10  1622.80
+CGO 1985 11  1618.46
+CGO 1985 12  1611.11
+CGO 1986  1  1604.35
+CGO 1986  2  1600.22
+CGO 1986  3  1600.76
+CGO 1986  4  1604.80
+CGO 1986  5  1612.58
+CGO 1986  6  1620.48
+CGO 1986  7  1627.62
+CGO 1986  8  1633.43
+CGO 1986  9  1634.13
+CGO 1986 10  1632.51
+CGO 1986 11  1630.50
+CGO 1986 12  1625.31
+CGO 1987  1  1616.30
+CGO 1987  2  1611.82
+CGO 1987  3  1614.45
+CGO 1987  4  1621.17
+CGO 1987  5  1628.42
+CGO 1987  6  1633.29
+CGO 1987  7  1639.08
+CGO 1987  8  1644.38
+CGO 1987  9  1647.37
+CGO 1987 10  1647.31
+CGO 1987 11  1641.78
+CGO 1987 12  1634.81
+CGO 1988  1  1627.50
+CGO 1988  2  1621.01
+CGO 1988  3  1618.38
+CGO 1988  4  1624.48
+CGO 1988  5  1635.07
+CGO 1988  6  1642.96
+CGO 1988  7  1650.37
+CGO 1988  8  1655.69
+CGO 1988  9  1657.23
+CGO 1988 10  1656.08
+CGO 1988 11  1653.67
+CGO 1988 12  1647.19
+CGO 1989  1  1635.16
+CGO 1989  2  1634.05
+CGO 1989  3  1639.68
+CGO 1989  4  1643.62
+CGO 1989  5  1650.85
+CGO 1989  6  1658.59
+CGO 1989  7  1665.50
+CGO 1989  8  1670.48
+CGO 1989  9  1670.05
+CGO 1989 10  1669.22
+CGO 1989 11  1667.50
+CGO 1989 12  1659.76
+CGO 1990  1  1651.82
+CGO 1990  2  1647.38
+CGO 1990  3  1646.79
+CGO 1990  4  1650.27
+CGO 1990  5  1658.16
+CGO 1990  6  1670.26
+CGO 1990  7  1676.18
+CGO 1990  8  1675.94
+CGO 1990  9  1677.22
+CGO 1990 10  1679.24
+CGO 1990 11  1675.60
+CGO 1990 12  1665.30
+CGO 1991  1  1654.99
+CGO 1991  2  1652.28
+CGO 1991  3  1655.35
+CGO 1991  4  1660.49
+CGO 1991  5  1667.36
+CGO 1991  6  1673.86
+CGO 1991  7  1678.92
+CGO 1991  8  1683.49
+CGO 1991  9  1687.28
+CGO 1991 10  1688.57
+CGO 1991 11  1685.89
+CGO 1991 12  1680.41
+CGO 1992  1  1674.03
+CGO 1992  2  1670.19
+CGO 1992  3  1670.74
+CGO 1992  4  1676.46
+CGO 1992  5  1683.27
+CGO 1992  6  1689.30
+CGO 1992  7  1696.11
+CGO 1992  8  1699.87
+CGO 1992  9  1700.99
+CGO 1992 10  1698.90
+CGO 1992 11  1694.56
+CGO 1992 12  1687.07
+CGO 1993  1  1675.85
+CGO 1993  2  1670.78
+CGO 1993  3  1672.46
+CGO 1993  4  1678.06
+CGO 1993  5  1685.09
+CGO 1993  6  1691.08
+CGO 1993  7  1696.89
+CGO 1993  8  1700.32
+CGO 1993  9  1701.44
+CGO 1993 10  1700.89
+CGO 1993 11  1697.36
+CGO 1993 12  1687.89
+CGO 1994  1  1676.98
+CGO 1994  2  1673.42
+CGO 1994  3  1675.21
+CGO 1994  4  1679.70
+CGO 1994  5  1687.80
+CGO 1994  6  1695.65
+CGO 1994  7  1701.48
+CGO 1994  8  1705.40
+CGO 1994  9  1706.78
+CGO 1994 10  1707.76
+CGO 1994 11  1705.11
+CGO 1994 12  1696.96
+CGO 1995  1  1689.56
+CGO 1995  2  1685.62
+CGO 1995  3  1684.86
+CGO 1995  4  1690.29
+CGO 1995  5  1698.10
+CGO 1995  6  1703.23
+CGO 1995  7  1706.21
+CGO 1995  8  1711.32
+CGO 1995  9  1714.63
+CGO 1995 10  1714.77
+CGO 1995 11  1710.10
+CGO 1995 12  1698.76
+CGO 1996  1  1692.15
+CGO 1996  2  1688.27
+CGO 1996  3  1686.49
+CGO 1996  4  1691.78
+CGO 1996  5  1698.39
+CGO 1996  6  1704.54
+CGO 1996  7  1710.13
+CGO 1996  8  1713.46
+CGO 1996  9  1715.97
+CGO 1996 10  1717.48
+CGO 1996 11  1712.18
+CGO 1996 12  1702.81
+CGO 1997  1  1694.83
+CGO 1997  2  1691.47
+CGO 1997  3  1693.75
+CGO 1997  4  1699.40
+CGO 1997  5  1706.47
+CGO 1997  6  1712.06
+CGO 1997  7  1716.26
+CGO 1997  8  1721.10
+CGO 1997  9  1722.93
+CGO 1997 10  1720.30
+CGO 1997 11  1715.82
+CGO 1997 12  1711.13
+CGO 1998  1  1704.05
+CGO 1998  2  1697.52
+CGO 1998  3  1696.39
+CGO 1998  4  1700.79
+CGO 1998  5  1708.94
+CGO 1998  6  1716.87
+CGO 1998  7  1724.60
+CGO 1998  8  1730.45
+CGO 1998  9  1733.20
+CGO 1998 10  1732.90
+CGO 1998 11  1728.34
+CGO 1998 12  1720.71
+CGO 1999  1  1713.57
+CGO 1999  2  1710.00
+CGO 1999  3  1709.93
+CGO 1999  4  1715.78
+CGO 1999  5  1723.56
+CGO 1999  6  1728.56
+CGO 1999  7  1734.89
+CGO 1999  8  1739.43
+CGO 1999  9  1740.63
+CGO 1999 10  1740.36
+CGO 1999 11  1736.22
+CGO 1999 12  1726.30
+CGO 2000  1  1716.93
+CGO 2000  2  1712.06
+CGO 2000  3  1712.33
+CGO 2000  4  1719.42
+CGO 2000  5  1726.37
+CGO 2000  6  1732.34
+CGO 2000  7  1737.89
+CGO 2000  8  1741.26
+CGO 2000  9  1742.19
+CGO 2000 10  1741.42
+CGO 2000 11  1736.63
+CGO 2000 12  1727.25
+CGO 2001  1  1717.38
+CGO 2001  2  1710.61
+CGO 2001  3  1710.00
+CGO 2001  4  1714.65
+CGO 2001  5  1723.74
+CGO 2001  6  1731.98
+CGO 2001  7  1736.57
+CGO 2001  8  1740.11
+CGO 2001  9  1741.64
+CGO 2001 10  1739.91
+CGO 2001 11  1732.86
+CGO 2001 12  1724.00
+CGO 2002  1  1714.96
+CGO 2002  2  1710.53
+CGO 2002  3  1712.48
+CGO 2002  4  1716.28
+CGO 2002  5  1724.08
+CGO 2002  6  1732.19
+CGO 2002  7  1736.75
+CGO 2002  8  1741.25
+CGO 2002  9  1743.30
+CGO 2002 10  1741.78
+CGO 2002 11  1735.91
+CGO 2002 12  1728.09
+CGO 2003  1  1719.02
+CGO 2003  2  1712.51
+CGO 2003  3  1713.35
+CGO 2003  4  1718.07
+CGO 2003  5  1725.55
+CGO 2003  6  1732.34
+CGO 2003  7  1737.23
+CGO 2003  8  1742.29
+CGO 2003  9  1744.83
+CGO 2003 10  1741.86
+CGO 2003 11  1735.55
+CGO 2003 12  1730.06
+CGO 2004  1  1720.64
+CGO 2004  2  1712.63
+CGO 2004  3  1712.07
+CGO 2004  4  1717.55
+CGO 2004  5  1725.90
+CGO 2004  6  1731.61
+CGO 2004  7  1736.20
+CGO 2004  8  1741.37
+CGO 2004  9  1743.14
+CGO 2004 10  1740.95
+CGO 2004 11  1736.34
+CGO 2004 12  1726.78
+CGO 2005  1  1715.90
+CGO 2005  2  1710.80
+CGO 2005  3  1710.95
+CGO 2005  4  1714.55
+CGO 2005  5  1721.97
+CGO 2005  6  1730.39
+CGO 2005  7  1735.55
+CGO 2005  8  1738.76
+CGO 2005  9  1740.20
+CGO 2005 10  1739.81
+CGO 2005 11  1736.20
+CGO 2005 12  1727.65
+CGO 2006  1  1718.09
+CGO 2006  2  1711.72
+CGO 2006  3  1710.76
+CGO 2006  4  1715.96
+CGO 2006  5  1723.29
+CGO 2006  6  1729.20
+CGO 2006  7  1733.50
+CGO 2006  8  1738.53
+CGO 2006  9  1741.11
+CGO 2006 10  1739.41
+CGO 2006 11  1734.05
+CGO 2006 12  1726.54
+CGO 2007  1  1718.31
+CGO 2007  2  1712.33
+CGO 2007  3  1713.87
+CGO 2007  4  1719.13
+CGO 2007  5  1726.55
+CGO 2007  6  1736.28
+CGO 2007  7  1742.15
+CGO 2007  8  1746.37
+CGO 2007  9  1749.09
+CGO 2007 10  1748.16
+CGO 2007 11  1744.10
+CGO 2007 12  1736.42
+CGO 2008  1  1727.67
+CGO 2008  2  1722.96
+CGO 2008  3  1723.58
+CGO 2008  4  1728.76
+CGO 2008  5  1736.58
+CGO 2008  6  1743.25
+CGO 2008  7  1749.56
+CGO 2008  8  1753.31
+CGO 2008  9  1754.03
+CGO 2008 10  1754.13
+CGO 2008 11  1748.99
+CGO 2008 12  1739.18
+CGO 2009  1  1731.87
+CGO 2009  2  1728.03
+CGO 2009  3  1726.74
+CGO 2009  4  1731.70
+CGO 2009  5  1738.91
+CGO 2009  6  1745.07
+CGO 2009  7  1752.08
+CGO 2009  8  1757.92
+CGO 2009  9  1760.86
+CGO 2009 10  1759.25
+CGO 2009 11  1752.85
+CGO 2009 12  1743.54
+CGO 2010  1  1735.76
+CGO 2010  2  1732.09
+CGO 2010  3  1733.75
+CGO 2010  4  1739.06
+CGO 2010  5  1745.12
+CGO 2010  6  1752.97
+CGO 2010  7  1761.37
+CGO 2010  8  1766.24
+CGO 2010  9  1767.27
+CGO 2010 10  1765.74
+CGO 2010 11  1762.13
+CGO 2010 12  1753.98
+CGO 2011  1  1744.74
+CGO 2011  2  1740.28
+CGO 2011  3  1740.73
+CGO 2011  4  1748.28
+CGO 2011  5  1755.41
+CGO 2011  6  1759.66
+CGO 2011  7  1765.66
+CGO 2011  8  1770.83
+CGO 2011  9  1772.90
+CGO 2011 10  1771.61
+CGO 2011 11  1767.34
+CGO 2011 12  1758.29
+CGO 2012  1  1748.60
+CGO 2012  2  1743.37
+CGO 2012  3  1744.07
+CGO 2012  4  1749.94
+CGO 2012  5  1756.85
+CGO 2012  6  1763.57
+CGO 2012  7  1768.77
+CGO 2012  8  1773.58
+CGO 2012  9  1776.18
+CGO 2012 10  1775.35
+CGO 2012 11  1770.64
+CGO 2012 12  1762.39
+CGO 2013  1  1752.63
+CGO 2013  2  1748.68
+CGO 2013  3  1750.92
+CGO 2013  4  1754.87
+CGO 2013  5  1761.18
+CGO 2013  6  1768.05
+CGO 2013  7  1774.35
+CGO 2013  8  1779.83
+CGO 2013  9  1781.94
+CGO 2013 10  1779.42
+CGO 2013 11  1773.53
+CGO 2013 12  1765.64
+CGO 2014  1  1755.30
+CGO 2014  2  1751.70
+CGO 2014  3  1756.44
+CGO 2014  4  1762.60
+CGO 2014  5  1769.89
+CGO 2014  6  1779.84
+CGO 2014  7  1787.48
+CGO 2014  8  1790.65
+CGO 2014  9  1792.49
+CGO 2014 10  1791.82
+CGO 2014 11  1786.86
+CGO 2014 12  1780.16
+CGO 2015  1  1772.31
+CGO 2015  2  1766.48
+CGO 2015  3  1766.90
+CGO 2015  4  1773.33
+CGO 2015  5  1780.13
+CGO 2015  6  1787.60
+CGO 2015  7  1796.59
+CGO 2015  8  1801.35
+CGO 2015  9  1802.85
+CGO 2015 10  1802.40
+CGO 2015 11  1797.57
+CGO 2015 12  1788.28
+CGO 2016  1  1779.10
+CGO 2016  2  1775.16
+CGO 2016  3  1776.07
+CGO 2016  4  1781.88
+CGO 2016  5  1790.11
+CGO 2016  6  1797.66
+CGO 2016  7  1802.69
+CGO 2016  8  1806.00
+CGO 2016  9  1807.45
+CGO 2016 10  1806.00
+CGO 2016 11  1800.98
+CGO 2016 12  1791.98
