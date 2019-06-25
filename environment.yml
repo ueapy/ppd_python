@@ -11,3 +11,4 @@ dependencies:
    - cartopy
    - xarray
    - netcdf4
+   - seaborn
