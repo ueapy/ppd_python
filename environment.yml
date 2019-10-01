@@ -12,3 +12,4 @@ dependencies:
    - xarray
    - netcdf4
    - seaborn
+   - spyder
