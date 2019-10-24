@@ -1,7 +1,7 @@
 # UEA Python ppd course
 IPython Jupyter Notebooks for the June 2019 Python ppd course
 
-To interact with the course notebooks requires three steps:
+To interact with the course notebooks requires five steps:
 ## 1. Install Anaconda
 If you are using a UEA laptop, install Anaconda from the UEA software centre
 If you are using a personal laptop, install it [following these instructions](https://docs.anaconda.com/anaconda/install/)
