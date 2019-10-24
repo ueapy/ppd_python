@@ -4,6 +4,7 @@ IPython Jupyter Notebooks for the June 2019 Python ppd course
 To interact with the course notebooks requires five steps:
 ## 1. Install Anaconda
 If you are using a UEA laptop, install Anaconda from the UEA software centre
+
 If you are using a personal laptop, install it [following these instructions](https://docs.anaconda.com/anaconda/install/)
 ## 2. Download the materials
 Clone this repo with git or download as a zip file using the green button then unzip the folder
@@ -15,7 +16,7 @@ Clone this repo with git or download as a zip file using the green button then u
 3.3. Navigate to the cloned / downloaded folder (using `cd` command), for example:
 
 ```
-cd C:\Users\myname\Downloads\pythoncourse2019-materials\
+cd C:\Users\myname\Downloads\ppd_python\
 ```
 if you don't know where you are in the terminal type `dir` on Windows or `pwd` on Linux/Mac
 
@@ -30,12 +31,18 @@ This will take some time depending on your Internet speed (<15 minutes).
 ### Linux / Mac
 If your default shell is NOT bash, first type `bash`. Activate the relevant environment by typing:
 ```bash
-source activate course2019
+source activate ppd_python
+```
+
+if this fails try
+
+```bash
+conda activate ppd_python
 ```
 ### Windows
 Still in the command line (Anaconda prompt), type:
 ```
-activate course2019
+activate ppd_python
 ```
 
 ## 5. Launch Jupyter
@@ -46,7 +53,9 @@ jupyter notebook
 in the command line. This should open Jupyter Notebooks in your browser. If you're not sure what you should see, check one of the links below
 
 ## Still having troubles?
-Experience Python from the comfort of your browser!
+If the command line is not doing what you want you may find the graphical interface provided by Anaconda Navigator more convenient. This will have installed with Anaconda earlier. Instructions for building and activating environments can be found via a search engine of your choice
+
+Alternativly, experience Python from the comfort of your browser!
 
 - View a static version online with [nbviewer](https://nbviewer.jupyter.org/github/callumrollo/ppd_python/tree/107939c27e7d847de93957f088e71c9c116c658d/)
 - Launch the notebooks interactively in the cloud with Binder
