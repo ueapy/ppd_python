@@ -22,10 +22,8 @@ Where your username is your UEA letter-number jumble e.g. foo15bar
 
 You can find this folder by opening the file explorer and going to `This PC` then `Windows (C:)` and double clicking through
 
-
-
 ## 3. Create the environment and launch the notebooks
-Make sure Anaconda is installed and the course materials are downloaded
+Make sure Anaconda is installed and the course materials are downloaded. From here you have two options: use Anaconda navigator (recommended if you are not a UNIX person) or use the command line.
 
 ### **Anaconda navigator technique (best for Windows):**
 
@@ -33,7 +31,9 @@ Make sure Anaconda is installed and the course materials are downloaded
 
 3.2 Select 'Environments' from the left hand side task bar
 
-3.3 Select 'import' form the bottom left. Press the folder icon, this will open a folder view and you can double click your way to the ppd_python folder you downloaded in step 2. Select the environment.yml file and click the buttons for'open' then 'import'
+![Import environment.yml](https://raw.githubusercontent.com/callumrollo/ppd_python/master/install-images/navigator.PNG)
+
+3.3 Select 'import' from the bottom left. Press the folder icon, this will open a folder view and you can double click your way to the ppd_python folder you downloaded in step 2. Select the environment.yml file and click the buttons for 'open' then 'import'
 
 Anaconda will now download all the extra packages we need. This will take some time depending on your Internet speed (<15 minutes). You will see various loading bars in Anaconda.
 
@@ -43,7 +43,13 @@ You may get a popup that "this app has been blocked by your system administrator
 
 3.5 Once ppd_python is selected, press 'launch' on the jupyter notebook icon
 
+![Import environment.yml](https://raw.githubusercontent.com/callumrollo/ppd_python/master/install-images/launch.PNG)
+
+
 3.6 This will launch jupyter notebooks in a web browser. From here you can navigate Documents then ppd_python. Open the 'notebooks' folder and you are ready to begin
+
+![Import environment.yml](https://raw.githubusercontent.com/callumrollo/ppd_python/master/install-images/jupyter.PNG)
+
 
 ### **Command line technique (best for UNIX):**
 
@@ -56,6 +62,9 @@ You may get a popup that "this app has been blocked by your system administrator
 If you don't know where you are in the terminal type `dir` on Windows or `pwd` on Linux/Mac
 
 If you don't know location of the materials, open your file navigator, right-click the ppd_python you downloaded and select `properties` this will include the location of the file
+
+![Import environment.yml](https://raw.githubusercontent.com/callumrollo/ppd_python/master/install-images/location.PNG)
+
 
 3.3. Create the environment using `conda` package manager:
 
@@ -88,7 +97,7 @@ Once the environment is activated, type
 ```
 jupyter notebook
 ```
-in the command line. This should open Jupyter Notebooks in your browser. If you're not sure what you should see, check one of the links below. Navigate to where you saved the ppd_python folder.
+in the command line. This should open Jupyter Notebooks in your browser. If you're not sure what you should see, check one of the links below. Navigate to where you saved the ppd_python folder, open the notebooks folder and you are ready to begin.
 
 ## Still having troubles?
 If the command line is not doing what you want you may find the graphical interface provided by Anaconda Navigator more convenient.
@@ -97,9 +106,9 @@ If you can't find where you saved the ppd_python folder copy it to
 
 `C:\\Users\you-user-name\Documents`
 
-Alternativly, experience Python from the comfort of your browser!
+Alternatively, experience Python from the comfort of your browser!
 
 - View a static version online with [nbviewer](https://nbviewer.jupyter.org/github/callumrollo/ppd_python/tree/107939c27e7d847de93957f088e71c9c116c658d/)
 - Launch the notebooks interactively in the cloud with Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/callumrollo/ppd_python/107939c27e7d847de93957f088e71c9c116c658d)
- may take a few minutes to load
+ (may take a few minutes to load)
