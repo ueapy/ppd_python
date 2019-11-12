@@ -3,7 +3,7 @@ IPython Jupyter Notebooks for UEA Python PPD courses
 
 To interact with the course notebooks requires several steps. Please complete these before the course begins:
 ## 1. Install Anaconda
-If you are using a UEA desktop it should already be installed (press the Windows key and start typing anaconda to check)
+If you are using a UEA desktop Anaconda Navigator should already be installed (press the Windows key and start typing anaconda to check)
 
 If you are using a UEA laptop, install Anaconda from the UEA software centre
 
@@ -14,11 +14,11 @@ Clone this repo with git or download as a zip file using the green button then u
 
 **UEA machines only**
 
-Due to the unhelpful directory structure of UEA PCs there are several folders called Documents, Downloads etc. in different places. You want to copy the course materials to the following location:
+Due to the unhelpful directory structure of UEA PCs there are several folders called Documents, Downloads etc. in different places. To make life easier in later steps, copy the ppd_python folder to the following location:
 
 `C:\\Users\you-user-name\Documents`
 
-Where your username is your UEA letter-number jumble e.g. foo15bar
+Where your-user-name is your UEA letter-number jumble e.g. foo15bar
 
 You can find this folder by opening the file explorer and going to `This PC` then `Windows (C:)` and double clicking through
 
@@ -31,9 +31,9 @@ Make sure Anaconda is installed and the course materials are downloaded. From he
 
 3.2 Select 'Environments' from the left hand side task bar
 
-![Import environment.yml](https://raw.githubusercontent.com/callumrollo/ppd_python/master/install-images/navigator.PNG)
-
 3.3 Select 'import' from the bottom left. Press the folder icon, this will open a folder view and you can double click your way to the ppd_python folder you downloaded in step 2. Select the environment.yml file and click the buttons for 'open' then 'import'
+
+![Import environment.yml](https://raw.githubusercontent.com/callumrollo/ppd_python/master/install-images/navigator.PNG)
 
 Anaconda will now download all the extra packages we need. This will take some time depending on your Internet speed (<15 minutes). You will see various loading bars in Anaconda.
 
