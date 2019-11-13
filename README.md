@@ -108,7 +108,7 @@ If you can't find where you saved the ppd_python folder copy it to
 
 Alternatively, experience Python from the comfort of your browser!
 
-- View a static version online with [nbviewer](https://nbviewer.jupyter.org/github/callumrollo/ppd_python/tree/107939c27e7d847de93957f088e71c9c116c658d/)
+- View a static version online with [nbviewer](https://nbviewer.jupyter.org/github/callumrollo/ppd_python/tree/b166e6664b027f7ed04bf979ba42141f7f215f2e/)
 - Launch the notebooks interactively in the cloud with Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/callumrollo/ppd_python/107939c27e7d847de93957f088e71c9c116c658d)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/callumrollo/ppd_python/b166e6664b027f7ed04bf979ba42141f7f215f2e)
  (may take a few minutes to load)
