@@ -1,6 +1,3 @@
-**Todo**
-- Add instructions based on Windows Anaconda navigator GUI
-
 # UEA Python ppd course
 IPython Jupyter Notebooks for the June 2019 Python ppd course
 
