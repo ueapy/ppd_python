@@ -1,6 +1,8 @@
 Demo Spyder in the first session
 Go slower
 Explicitly send an email notification, don't rely on balckboard update
+Add Ben Macleod and other technicians
+Book the Constable Terrace space
 
 From the suggestions:
 
@@ -26,7 +28,8 @@ explaining new concepts really quickly (or assuming that everyone knows mathemat
 It was mentioned that some content was removed? Maybe this could be left in for those who wish to skip ahead to something more technical.
 It went a little bit too fast for an absolute beginner.
 Assume people have a bit less knowledge than you did .
+speaking so damn fast
 
 New things:
 have a few more pointers on how to write the code for the more complex exercises. At the moment, the options are to try yourself or look at the answers
-
+add discussion of extra tools (git, pyucharm etc.)
