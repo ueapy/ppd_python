@@ -1,9 +1,14 @@
 Demo Spyder in the first session
+Make an index of topics: "I want to do X" Look in notebook Y"
 Go slower
 Explicitly send an email notification, don't rely on balckboard update
 Add Ben Macleod and other technicians
 when you start talking (again), give people 30 secs to bring their attention before starting the material. Don't jump straight in bc their attention isn't there
+Make some challenges for the faster students:
+cartopy function to add an offset to a coordinate, e.g. make a 10 km box around a point, or circle etc... Convert decimal degs todeg minutes
 
+idea:
+analogy of cooking for the utility of multi processing. WHile you wait 10 mins for veg to boil, you should be chopping something else to get dinner ready
 From the suggestions:
 
 Keep doing:
