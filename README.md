@@ -73,7 +73,7 @@ conda env create -f environment.yml
 ```
 This will take some time depending on your Internet speed (<15 minutes).
 
-## 4. Activate the envronment
+3.4. Activate the envronment
 
 ### Linux / Mac
 If your default shell is NOT bash, first type `bash`. Activate the relevant environment by typing:
@@ -92,7 +92,7 @@ Still in the command line (Anaconda prompt), type:
 activate ppd_python
 ```
 
-## 5. Launch Jupyter
+3.5. Launch Jupyter
 Once the environment is activated, type 
 ```
 jupyter notebook
