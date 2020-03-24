@@ -1,7 +1,10 @@
 # UEA Python ppd course
 IPython Jupyter Notebooks for UEA Python PPD courses
 
-To interact with the course notebooks requires several steps. Please complete these before the course begins:
+**Quickstart** follow [this link](https://mybinder.org/v2/gh/callumrollo/ppd_python/46f8e1f34115fe248ac77059a9be61ab21537a9a) to get the course materials running in your browser (may take a few minutes to load)
+
+If you want to get Python and the course materials running locally on your computer  you must complete a few steps:
+
 ## 1. Install Anaconda
 If you are using a UEA desktop Anaconda Navigator should already be installed (press the Windows key and start typing anaconda to check)
 
@@ -108,7 +111,7 @@ If you can't find where you saved the ppd_python folder copy it to
 
 Alternatively, experience Python from the comfort of your browser!
 
-- View a static version online with [nbviewer](https://nbviewer.jupyter.org/github/callumrollo/ppd_python/tree/ffddad542696ce96989bb76f4344fc03990f0bb2/)
+- View a static version online with [nbviewer](https://nbviewer.jupyter.org/github/callumrollo/ppd_python/tree/46f8e1f34115fe248ac77059a9be61ab21537a9a/)
 - Launch the notebooks interactively in the cloud with Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/callumrollo/ppd_python/ffddad542696ce96989bb76f4344fc03990f0bb2)
+[![Binder](https://mybinder.org/v2/gh/callumrollo/ppd_python/46f8e1f34115fe248ac77059a9be61ab21537a9a)
  (may take a few minutes to load)
