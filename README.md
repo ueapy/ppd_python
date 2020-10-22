@@ -1,5 +1,10 @@
 # UEA Python ppd course
 
+
+IPython Jupyter Notebooks for UEA Python PPD courses (runs interactively in browser)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ESiddle/ppd_python/beth)
+
 If you want to get Python and the course materials running locally on your computer  you must complete a few steps:
 
 ## 1. Install Anaconda
