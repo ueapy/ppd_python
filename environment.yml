@@ -1,6 +1,9 @@
 name: ppd_python
+channels:
+   - defaults
+   - conda-forge
 dependencies:
-   - python=3.7
+   - python=3.8
    - ipython
    - jupyter
    - numpy
@@ -11,3 +14,8 @@ dependencies:
    - netcdf4
    - seaborn
    - spyder
+   - tqdm
+   - scipy
+   - iris
+   - plotly
+   - cftime
