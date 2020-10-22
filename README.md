@@ -1,9 +1,4 @@
 # UEA Python ppd course
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/callumrollo/ppd_python/master)
-
-IPython Jupyter Notebooks for UEA Python PPD courses
-
-**Quickstart** follow [this link](https://mybinder.org/v2/gh/callumrollo/ppd_python/47617a2cc12325771b958ad4ebeea02de525c6d4) to get the course materials running in your browser (may take a few minutes to load)
 
 If you want to get Python and the course materials running locally on your computer  you must complete a few steps:
 
