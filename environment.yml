@@ -19,3 +19,4 @@ dependencies:
    - iris
    - plotly
    - cftime
+   - nc-time-axis
