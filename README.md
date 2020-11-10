@@ -5,7 +5,7 @@ IPython Jupyter Notebooks for UEA Python PPD courses (runs interactively in brow
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ESiddle/ppd_python/beth)
 
-If you want to get Python and the course materials running locally on your computer  you must complete a few steps:
+If you want to get Python and the course materials running locally on your computer (recommended) you must complete a few steps:
 
 ## 1. Install Anaconda
 If you are using a UEA desktop Anaconda Navigator should already be installed (press the Windows key and start typing anaconda to check)
