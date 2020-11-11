@@ -113,6 +113,6 @@ If you can't find where you saved the ppd_python folder copy it to
 
 Alternatively, experience Python from the comfort of your browser!
 
-- View a static version online with [nbviewer](https://nbviewer.jupyter.org/github/callumrollo/ppd_python/tree/47617a2cc12325771b958ad4ebeea02de525c6d4/)
+- View a static version online with [nbviewer](https://nbviewer.jupyter.org/github/ueapy/ppd_python/tree/master/)
 - Launch the notebooks interactively in the cloud with Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ueapy/ppd_python/master) (may take a few minutes to load)
