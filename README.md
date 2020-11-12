@@ -3,7 +3,7 @@
 
 IPython Jupyter Notebooks for UEA Python PPD courses (runs interactively in browser)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ueapy/ppd_python/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ueapy/ppd_python/HEAD)
 
 If you want to get Python and the course materials running locally on your computer (recommended) you must complete a few steps:
 
@@ -115,4 +115,4 @@ Alternatively, experience Python from the comfort of your browser!
 
 - View a static version online with [nbviewer](https://nbviewer.jupyter.org/github/ueapy/ppd_python/tree/master/)
 - Launch the notebooks interactively in the cloud with Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ueapy/ppd_python/master) (may take a few minutes to load)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ueapy/ppd_python/HEAD) (may take a few minutes to load)
