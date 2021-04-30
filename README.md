@@ -3,7 +3,7 @@
 
 IPython Jupyter Notebooks for UEA Python PPD courses (runs interactively in browser)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ueapy/ppd_python/HEAD)
+https://mybinder.org/v2/gh/ueapy/ppd_python/HEAD
 
 If you want to get Python and the course materials running locally on your computer (recommended) you must complete a few steps:
 
